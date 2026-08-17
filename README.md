@@ -239,7 +239,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/nallasivan-m/">
+  <a href="https://www.linkedin.com/in/muthukumar-balaji-b-1b9b38331/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
