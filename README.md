@@ -18,18 +18,13 @@
 <p align="center">
   <a href="https://github.com/Muthukumar-devs
 ">
-    <img src="https://komarev.com/ghpvc/?username=Muthukumar-devs
-&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Muthukumar-devs&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://github.com/Muthukumar-devs
-?tab=followers">
-    <img src="https://img.shields.io/github/followers/Muthukumar-devs
-?label=Followers&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Followers" />
+  <a href="https://github.com/Muthukumar-devs?tab=followers">
+    <img src="https://img.shields.io/github/followers/Muthukumar-devs?label=Followers&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Followers" />
   </a>
-  <a href="https://github.com/Muthukumar-devs
-?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Muthukumar-devs
-?label=Stars&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Stars" />
+  <a href="https://github.com/Muthukumar-devs?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Muthukumar-devs?label=Stars&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Stars" />
   </a>
 </p>
 
@@ -156,22 +151,19 @@
 <p align="center">
   <a href="https://github.com/Muthukumar-devs
 ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muthukumar-devs
-&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muthukumar-devs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Muthukumar-devs
 ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthukumar-devs
-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthukumar-devs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <!-- STREAK STATS -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Muthukumar-devs
-&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Muthukumar-devs&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -185,8 +177,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-one.vercel.app/?username=Muthukumar-devs
-&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy-one.vercel.app/?username=Muthukumar-devs&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
   </a>
 </p>
 
@@ -197,8 +188,7 @@
 <p align="center">
   <a href="https://github.com/Muthukumar-devs
 ">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muthukumar-devs
-&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muthukumar-devs&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" alt="Contribution Graph" />
   </a>
 </p>
 
@@ -220,9 +210,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muthukumar-devs
-/Muthukumar-devs
-/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Muthukumar-devs/Muthukumar-devs/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -234,8 +222,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:muthukumarbalaji111
-@gmail.com">
+  <a href="mailto:muthukumarbalaji111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
