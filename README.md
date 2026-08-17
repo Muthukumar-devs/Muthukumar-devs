@@ -273,5 +273,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by <b>Nallasivan</b>
+  Made with ❤️ by <b>Muthukumar Balaji</b>
 </p>
